@@ -11,7 +11,7 @@ I'm someone who has spent most of his time on computers, learning and creating. 
 
 ## 🔥 Projects 
 
-Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 👯
+Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 💪🏻
 
 I’m always up for learning new things and taking on new challenges, so stay tuned for more updates!
 
