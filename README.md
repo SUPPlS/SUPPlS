@@ -15,7 +15,7 @@ Feel free to explore the projects I've worked on or contributed to. Some are sol
 
 I’m always up for learning new things and taking on new challenges, so stay tuned for more updates!
 
-## 🔍 You find me also 📫
+## 🔍 You find me also
 [![Findme](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/topi-ilmasti/)
 
 <!--
