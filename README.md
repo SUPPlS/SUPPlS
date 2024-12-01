@@ -1,21 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, stranger 👽
 
 I'm someone who has spent quite a bit of time on computers, learning and creating. Here you'll find a collection of languages and tools I'm familiar with, as well as projects I've worked on or contributed to. 
 
-## Programming Languages:
+## 🖥️ Programming Languages 
 ![Languages](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,py,ruby,kotlin,powershell)
 
-## Tools & Environments:
+## 🛠️ Tools & Environments
 
 ![Tools](https://skillicons.dev/icons?i=arduino,androidstudio,graphql,apollo,mysql,firebase,postman,qt,nodejs,vscode,unreal,ableton,aws,azure,cloudflare)
 
-## Projects 🛠️
+## 🔥 Projects 
 
-Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 
+Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 👯
 
 I’m always up for learning new things and taking on new challenges, so stay tuned for more updates!
 
-## You find me also:
+## 🔍 You find me also 📫
 [![Findme](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/topi-ilmasti/)
 
 <!--
