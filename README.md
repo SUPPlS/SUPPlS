@@ -3,7 +3,7 @@
 I'm someone who has spent most of his time on computers, learning and creating. Here, you'll find a collection of languages and tools I'm familiar with, as well as projects I've worked on or contributed to. 
 
 ## 🖥️ Programming Languages 
-![Languages](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,py,ruby,kotlin,powershell)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,py,ruby,kotlin,powershell)
 
 ## 🛠️ Tools & Environments
 
