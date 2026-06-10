@@ -8,6 +8,7 @@ I'm someone who has spent most of his time on computers, learning and creating. 
 ## 🛠️ Tools & Environments
 
 ![Tools](https://skillicons.dev/icons?i=arduino,androidstudio,graphql,apollo,mysql,firebase,postman,qt,nodejs,vscode,unreal,ableton,aws,azure,cloudflare,mint,php,unity,nodejs)
+<br>
 ![Tools2](https://skillicons.dev/icons?i=nodejs)
 ## 🔥 Projects 
 
