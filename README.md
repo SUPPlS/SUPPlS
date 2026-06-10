@@ -1,12 +1,12 @@
 ## 👋 Hi there, stranger 👽
 
-I'm someone who has spent most of his time on computers, learning and creating. Here, you'll find a collection of languages and tools I'm familiar with, as well as projects I've worked on or contributed to. 
+I'm someone who has spent most of my time on computers, learning and creating. Here you'll find a collection of programming languages, technologies, and tools I'm familiar with, along with projects I've worked on or contributed to.
 
 ## 🖥️ Programming Languages 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,py,ruby,kotlin,powershell,php)
 
 ## 💻 Development
-![Development](https://skillicons.dev/icons?i=nodejs,php,graphql,apollo,vscode,qt,androidstudio)
+![Development](https://skillicons.dev/icons?i=nodejs,graphql,vscode,qt,androidstudio)
 
 ## ☁️ Cloud, Data & Infrastructure
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare,mysql,firebase,postman,mint)
@@ -17,7 +17,7 @@ I'm someone who has spent most of his time on computers, learning and creating. 
 
 Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 💪🏻
 
-I’m always up for learning new things and taking on new challenges, so stay tuned for more updates!
+I'm always looking to learn new things and take on new challenges, so check back from time to time for new projects and updates.
 
 ## 🔍 You find me also
 [![Findme](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/topi-ilmasti/)
