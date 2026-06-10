@@ -2,14 +2,14 @@
 
 I'm someone who has spent most of his time on computers, learning and creating. Here, you'll find a collection of languages and tools I'm familiar with, as well as projects I've worked on or contributed to. 
 
-## 🖥️ Programming Languages 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,py,ruby,kotlin,powershell,php)
+## 💻 Development
+![Development](https://skillicons.dev/icons?i=nodejs,php,graphql,apollo,vscode,qt,androidstudio)
 
-## 🛠️ Tools & Environments
+## ☁️ Cloud, Data & Infrastructure
+![Cloud](https://skillicons.dev/icons?i=aws,azure,cloudflare,mysql,firebase,postman,mint)
 
-![Tools](https://skillicons.dev/icons?i=arduino,androidstudio,graphql,apollo,mysql,firebase,postman,qt,nodejs,vscode,unreal,ableton,aws,azure,cloudflare,mint,php,unity,nodejs)
-<br>
-![Tools2](https://skillicons.dev/icons?i=nodejs)
+## 🎮 Game, Embedded & Creative
+![Other](https://skillicons.dev/icons?i=unity,unreal,arduino,ableton)
 ## 🔥 Projects 
 
 Feel free to explore the projects I've worked on or contributed to. Some are solo efforts, while others were collaborative endeavors where I got to work with a talented team. 💪🏻
